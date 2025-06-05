@@ -1,0 +1,8 @@
+.Solução pseudocódigo
+inicío;
+leia n;
+n2 = n-1;
+n2=10-n;
+r=(n1x10)+ n2;
+imprimir r;
+fim
